@@ -5,3 +5,5 @@ luad[[:space:]]relapse/** filter=lfs diff=lfs merge=lfs -text
 lusc[[:space:]]relapse/** filter=lfs diff=lfs merge=lfs -text
 NSCLC[[:space:]]Recurrence/** filter=lfs diff=lfs merge=lfs -text
 melanoma/** filter=lfs diff=lfs merge=lfs -text
+kidney/Data/*.csv filter=lfs diff=lfs merge=lfs -text
+lusc[[:space:]]relapse[[:space:]]prediction/Data/*.tar.gz filter=lfs diff=lfs merge=lfs -text
